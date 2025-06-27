@@ -1,0 +1,14 @@
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/*font family below will be applied to the whole website*/
+
+body {
+    margin: 0px;
+    padding-top: 82px;
+    padding-left: 96px;
+    margin-bottom: 40px;
+    font-family: Roboto, Arial;
+}
